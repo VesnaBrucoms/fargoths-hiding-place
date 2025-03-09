@@ -1,7 +1,16 @@
 # Fargoth's Hiding Place
 
+Help Fargoth by standing up to Hrisskar!
+
 I've always been frustrated that the quest Fargoth's Hiding Place has no way to let Fargoth know that
 Hrisskar is getting others to do his dirty work. Now you can stand up for your best friend in Vvardenfell!
+
+## Requirements
+
+Official expansions:
+
+* Tribunal
+* Bloodmoon
 
 ## Licensing
 
@@ -15,6 +24,6 @@ If you're looking to redistribute or share modifications to this, please include
 
 Thanks to...
 
-* Bethesda Softworks for creating Morrowind and the wonderful Construction Set.
+* Bethesda Softworks for creating Morrowind and the wonderful Construction Set, and for the original Fargoth's Hiding Place quest.
 * Nexus Mods for the one-stop-shop resource for authors and players.
 * All of the fine folk who made the CSSE, which makes modding so much easier.
