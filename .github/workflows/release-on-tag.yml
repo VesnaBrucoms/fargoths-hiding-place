@@ -7,8 +7,8 @@ on:
 permissions:
   contents: write
 env:
-  ZIPFILE_NAME: EstrangedSpirits
-  README_NAME: Estranged Spirits Readme
+  ZIPFILE_NAME: FargothsHidingPlace
+  README_NAME: Fargoths Hiding Place Readme
 jobs:
   build:
     runs-on: ubuntu-latest
